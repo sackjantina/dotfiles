@@ -20,6 +20,10 @@ super + Escape
 super + n
     firefox
 
+# lock computer
+ctrl + alt + l
+	slock
+
 #
 # bspwm hotkeys
 #
